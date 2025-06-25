@@ -25,4 +25,4 @@ JustYap is a project for quick and easy messaging. This repository is under acti
 
 ## Contributing
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+Please see [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
