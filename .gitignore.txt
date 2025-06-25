@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+
+# Test output
+*.log
